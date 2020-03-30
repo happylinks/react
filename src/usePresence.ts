@@ -1,6 +1,6 @@
 import { useEffect, useState, useContext } from "react";
 import { RoomServiceContext } from "./context";
-import RoomClient from "@roomservice/browser/dist/room-client";
+import RoomClient from "@happylinks/roomservice-browser/dist/room-client";
 
 interface PresenceOptions {
   // "user" means the presence of a user, in any browser tab or device,

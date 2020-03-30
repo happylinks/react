@@ -1,6 +1,6 @@
 {
   "name": "@happylinks/roomservice-react",
-  "version": "0.4.11",
+  "version": "0.4.12",
   "main": "dist/index.js",
   "license": "MIT",
   "scripts": {
@@ -9,7 +9,7 @@
     "test": "jest"
   },
   "dependencies": {
-    "@happylinks/roomservice-browser": "0.4.4",
+    "@happylinks/roomservice-browser": "0.4.5",
     "invariant": "^2.2.4",
     "tiny-warning": "^1.0.3"
   },

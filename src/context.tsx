@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { createContext } from "react";
-import RoomService from "@roomservice/browser";
+import RoomService from "@happylinks/roomservice-browser";
 
 interface RoomServiceProps {
   authUrl: string;

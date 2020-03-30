@@ -1,5 +1,5 @@
 import React from "react";
-import RoomServiceClient from "@roomservice/browser";
+import RoomServiceClient from "@happylinks/roomservice-browser";
 import { act, renderHook } from "@testing-library/react-hooks";
 import { useSharedState, RoomServiceProvider } from "./index";
 import { DUMMY_PATH, DUMMY_URL, mockAuthEndpoint } from "./test-util";
